@@ -23,5 +23,8 @@ As instruções a seguir são para instruir como obter o máximo sucesso na Aval
 - Você pode fazer perguntas sobre requisitos, envio, etc. ao seu recrutador da DUO.
 
 ## Critérios de avaliação
-Todas as avaliações
-<details><summary>Click to expand</summary>
+
+<details><summary>Todas as avaliações</summary>
+- Fulfilling requirements
+  - Corner cases
+</details>
