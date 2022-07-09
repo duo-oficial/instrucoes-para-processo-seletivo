@@ -26,5 +26,5 @@ As instruções a seguir são para instruir como obter o máximo sucesso na Aval
 
 <details><summary>Todas as avaliações</summary>
   - Fulfilling requirements  
-    - Corner cases
+    - Corner cases (validações, restrições, etc)
 </details>
