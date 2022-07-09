@@ -25,7 +25,6 @@ As instruções a seguir são para instruir como obter o máximo sucesso na Aval
 ## Critérios de avaliação
 
 <details><summary>Todas as avaliações</summary>
-- Fulfilling requirements
-  
-  - Corner cases
+  - Fulfilling requirements  
+    - Corner cases
 </details>
