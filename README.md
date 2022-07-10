@@ -4,7 +4,7 @@
 
 <h1>
 <p align="center">
-Briefing de Avaliação Técnica DUO Studio Interativo
+Resumo da Avaliação Técnica DUO Studio Interativo
 </p>
 </h1>
 
