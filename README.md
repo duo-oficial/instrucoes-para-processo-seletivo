@@ -37,9 +37,9 @@ As instruções a seguir são para instruir como obter o máximo sucesso na Aval
   <summary>Todas as avaliações</summary>
   
   - ### Cumprindo requisitos
-    - Caminho feliz: garante sua execução e vai que funcionará no seu fluxo de exceção. 
+    - 'Caminho feliz': garante sua execução e vai que funcionará no seu fluxo de exceção. 
       > No contexto de software ou modelagem de informações, um caminho feliz é um cenário padrão sem condições excepcionais ou de erro.
-    - Prever corner cases: ocorre fora dos parâmetros operacionais normais, especificamente quando várias variáveis ​​ou condições ambientais estão simultaneamente em níveis extremos, mesmo que cada parâmetro esteja dentro da faixa especificada para esse parâmetro.
+    - Prever 'corner cases': ocorre fora dos parâmetros operacionais normais, especificamente quando várias variáveis ​​ou condições ambientais estão simultaneamente em níveis extremos, mesmo que cada parâmetro esteja dentro da faixa especificada para esse parâmetro.
   - ### Escolhas de arquitetura
     - Estruturação de endpoints da API (métodos, paths, parâmetros)
     - Design patterns (service layers, repositories, mediators, builders, etc)
