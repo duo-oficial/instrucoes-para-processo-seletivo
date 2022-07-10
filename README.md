@@ -105,9 +105,7 @@ As variações são:
 
 - 💻  Web Front-end
 - 💻  Web Back-end
-
 <br/>
-
 ## **‼** Configuração do ambiente **‼**
 
 É altamente recomendável que você configure um ambiente em seu idioma e estrutura de escolha (de acordo com a variação escolhida acima) antes do horário agendado para a avaliação. Isso garantirá que você possa gastar 100% do seu tempo de avaliação escrevendo código para o projeto, em vez de discutir seu ambiente.
